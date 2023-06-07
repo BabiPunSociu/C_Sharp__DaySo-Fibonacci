@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\bin\Debug\net6.0\DaySo_Fibonacci.exe
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\bin\Debug\net6.0\DaySo_Fibonacci.deps.json
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\bin\Debug\net6.0\DaySo_Fibonacci.runtimeconfig.json
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\bin\Debug\net6.0\DaySo_Fibonacci.dll
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\bin\Debug\net6.0\DaySo_Fibonacci.pdb
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.dll
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\refint\DaySo_Fibonacci.dll
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.pdb
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\DaySo_Fibonacci.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\DaySo_Fibonacci\obj\Debug\net6.0\ref\DaySo_Fibonacci.dll
